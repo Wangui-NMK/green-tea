@@ -1,0 +1,24 @@
+RingNo,Species,Age,Sex,Wing,Head,Tarsus,Weight,Culmen,OverallLength,Latitude,Longitude,Locality
+B43001,FL,10,,96,33.9,18,46,17.1,143,0.793852,36.420927,"Sanctuary, Naivasha"
+B43002,HL,10,,96,34.6,17.6,47,16.9,136.9,0.793852,36.420927,"Sanctuary, Naivasha"
+B43003,HL,4,,97,32.3,17.4,42,16.5,141.2,0.793852,36.420927,"Sanctuary, Naivasha"
+B43004,HL,3,,103,33.6,16.6,49,16.8,148.2,,,Fisherman's Camp Lake Naivasha
+B43005,HL,4,,96,34.4,17.6,50,17.9,145.5,,,Fisherman's Camp Lake Naivasha
+B43006,HL,4,,98,33.8,18,51,17.9,149.3,,,Fisherman's Camp Lake Naivasha
+B43007,HL,4,,99,33.6,17.3,48,16.8,150,,,Fisherman's Camp Lake Naivasha
+B43008,HL,4,,99,33.8,17.8,48,17.6,149.7,,,Fisherman's Camp Lake Naivasha
+B43009,HL,4,,96,32.2,19.1,52,16.6,152.3,,,Fisherman's Camp Lake Naivasha
+B43010,HL,4,,100,34.3,18.1,60,18.5,151,,,Fisherman's Camp Lake Naivasha
+B43011,HL,4,,99,34.4,18.5,58,19.1,153.2,,,Fisherman's Camp Lake Naivasha
+B43012,HL,4,,100,35.2,19.4,51,18.6,150.3,,,Fisherman's Camp Lake Naivasha
+B43013,HL,3,,97,32.8,17.1,50,14.8,146,,,Fisherman's Camp Lake Naivasha
+B43014,HL,4,,102,33.2,18,59,18.9,150.5,,,Fisherman's Camp Lake Naivasha
+B43015,HL,4,,96,33.1,18.4,43,17,138.1,,,Fisherman's Camp Lake Naivasha
+B43016,HL,10,,96,33,19.7,48,17.4,145,,,Fisherman's Camp Lake Naivasha
+B43017,HL,10,,99,32.5,17.6,46,16.4,149.2,,,Fisherman's Camp Lake Naivasha
+B43018,HL,4,,99,33.5,17.9,47,17.5,149.7,,,Fisherman's Camp Lake Naivasha
+B43019,HL,4,,98,33.6,18.1,49,18.5,149.5,,,Fisherman's Camp Lake Naivasha
+B43020,HL,3,,99,32.3,17.2,45,17,146.5,,,Fisherman's Camp Lake Naivasha
+B43021,HL,4,,97,32.4,17.5,42,15.7,140.6,,,Fisherman's Camp Lake Naivasha
+B43022,HL,11,,99,32.3,18.7,46,15.8,141.5,,,Fisherman's Camp Lake Naivasha
+B43023,HL,4,,98,32.7,18.7,47,17,138.9,,,Fisherman's Camp Lake Naivasha
